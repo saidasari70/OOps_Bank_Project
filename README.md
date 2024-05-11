@@ -1,6 +1,8 @@
 Bank Management System
 This is a Python-based command-line application that simulates a basic bank management system. It allows users to create accounts, deposit and withdraw money, check their balance, view mini statements, update personal information, change PIN, transfer funds, and more.
 
+
+
 Features
 Create new bank accounts with personal details
 Deposit and withdraw money from accounts
@@ -16,15 +18,6 @@ These instructions will help you set up and run the project on your local machin
 Prerequisites
 Python 3.x
 Installation
-Clone the repository:
-git clone https://github.com/your-username/bank-management-system.git
-
-
-
-Navigate to the project directory:
-cd bank-management-system
-
-
 
 Usage
 Open the bank.ipynb file in a Jupyter Notebook environment or run the bank.py script.
