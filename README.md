@@ -1,8 +1,8 @@
-# OOps_Bank_Project
+# OOps_Bank_Project----
 **Bank Management System**
   This is a Python-based command-line application that simulates a basic bank management system. It allows users to create accounts, deposit and withdraw money, check their balance, view mini statements, update personal information, change PIN, transfer funds, and more.
 
-**Features**
+**Features**:
   Create new bank accounts with personal details
   Deposit and withdraw money from accounts
   Check account balance
@@ -11,20 +11,20 @@
   Change account PIN
   Transfer funds between accounts
   Check current rate of interest
-**Getting Started**
+**Getting Started**:
   These instructions will help you set up and run the project on your local machine.
 
-**Prerequisites**
+**Prerequisites**:
   Python 3.x
   Installation
   Clone the repository or download the source code.
   Navigate to the project directory.
   Run the bank.ipynb file using a Python IDE or Jupyter Notebook.
-**Usage**
+**Usage**:
   Upon running the bank.ipynb file, you will be prompted to enter an account number and PIN.
   If the account number and PIN are valid, you will be presented with a menu of options.
   Follow the on-screen instructions to perform various banking operations.
-**Code Structure**
+**Code Structure**:
   The project consists of a single Python class called bank that encapsulates all the functionality. The class has the following methods:
   
   __init__: Initializes a new bank account object with customer details.
