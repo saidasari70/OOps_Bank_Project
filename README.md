@@ -28,19 +28,19 @@
   The project consists of a single Python class called bank that encapsulates all the functionality. The class has the following methods:
   
   __init__: Initializes a new bank account object with customer details.
-  no_cust_inc: Increments the number of customers.
-  concat_cust_details: Adds customer details to a dictionary.
-  change_ROI: Changes the rate of interest.
-  check_bal: Checks the account balance.
-  concat_cust_trans: Adds transaction details to a dictionary.
-  deposit: Deposits money into the account.
-  withdraw: Withdraws money from the account.
-  mini_statement: Displays a mini statement of transactions.
-  pin_change: Changes the account PIN.
-  cust_update: Updates customer information.
-  account_details: Displays account details.
-  transfer: Transfers funds between accounts.
-  home: Displays the main menu and handles user input.
+ **no_cust_inc**: Increments the number of customers.
+**concat_cust_details**: Adds customer details to a dictionary.
+  **change_ROI**: Changes the rate of interest.
+  **check_bal**: Checks the account balance.
+  **concat_cust_trans**: Adds transaction details to a dictionary.
+  **deposit**: Deposits money into the account.
+  **withdraw**: Withdraws money from the account.
+ **mini_statement**: Displays a mini statement of transactions.
+ **pin_change**: Changes the account PIN.
+ **cust_update**: Updates customer information.
+  **account_details**: Displays account details.
+ **transfer**: Transfers funds between accounts.
+  **home**: Displays the main menu and handles user input.
   --------The main function prompts the user for account number and PIN, and if valid, calls the home method to display the main menu.---------------
 
 
